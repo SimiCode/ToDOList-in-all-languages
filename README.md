@@ -18,30 +18,37 @@ The app will be written as a web app with a backend and a database possibly.
 	3. Add/delete/Edit a user
 
 
-## Backend Languages to use:	
-	Clojure
-	F#
-	Go
-	Scala
-	Elixir
-	Ruby
-	Rust
-	Erlang
-	R
-	Python
-	Objective-C
-	TypeScript
-	C#
-	Swift
-	Kotlin
-	C++
-	Assembly$52k / WebAssembly
-	C
-	Java
-	PHP
+## Backend Languages to use:
 
-## Front End Consumers to use:	
-    React
-	Vue
-	React-Native
-	Flutter
+Language | Added | Add task | Delete Task | Edit Task | Web App
+-------- | ----- | -------- | ----------- | --------- | -------
+Clojure |  |  |  |  |  
+F# |  |  |  |  |  
+Go |  |  |  |  |  
+Scala |  |  |  |  |  
+Elixir |  |  |  |  |  
+Ruby |  |  |  |  |  
+Rust |  |  |  |  |  
+Erlang |  |  |  |  |  
+R |  |  |  |  |  
+Python | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  | :heavy_check_mark:
+Objective-C |  |  |  |  |  
+TypeScript |  |  |  |  |  
+C# |  |  |  |  |  
+Swift |  |  |  |  |  
+Kotlin |  |  |  |  |  
+C++ |  |  |  |  |  
+Assembly |  |  |  |  |  
+WebAssembly |  |  |  |  |  
+C |  |  |  |  |  
+Java |  |  |  |  |  
+PHP |  |  |  |  |  
+
+## Front End Consumers to use:
+
+Framework | Added | Finished | Hosted 
+--------- | ----- | -------- | -------
+Vue |  |  |  |
+React-Native |  |  |  |
+Flutter |  |  |  |
+
