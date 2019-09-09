@@ -1,4 +1,4 @@
-# ToDOList-in-20-languages
+# ToDOList-in-all-programming-languages
 This repo contains a basic implementation of a todo app written in 20 popular programming languages.
 The app will be written as a web app with a backend and a database possibly. 
 
