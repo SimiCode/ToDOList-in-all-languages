@@ -17,5 +17,4 @@ class Tasks:
 
     @classmethod
     def get_tasks(cls):
-        return [(task.task_name, task.category) for task in cls.tasks]
-
+        return [{'task': task.task_name, 'type': task.category} for task in cls.tasks]
