@@ -43,7 +43,7 @@ WebAssembly |  |  |  |  |
 C |  |  |  |  |  
 Java |  |  |  |  |  
 PHP |  |  |  |  |  
-JavaScript |  |  |  |  |  
+JavaScript | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  | :heavy_check_mark:
 
 ## Front End Consumers to use:
 
