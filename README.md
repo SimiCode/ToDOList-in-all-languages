@@ -43,6 +43,7 @@ WebAssembly |  |  |  |  |
 C |  |  |  |  |  
 Java |  |  |  |  |  
 PHP |  |  |  |  |  
+JavaScript |  |  |  |  |  
 
 ## Front End Consumers to use:
 
