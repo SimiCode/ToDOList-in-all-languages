@@ -2,7 +2,9 @@
 This repo contains a basic implementation of a todo app written in 20 popular programming languages.
 The app will be written as a web app with a backend and a database possibly. 
 
-**Project:** To-Do list App
+**Project:** To-Do list API in all programming languages
+
+**Schema:** I suggest that all routes use the url `/api/v1/tasks`
 
 **Focus Areas:**
 
