@@ -12,6 +12,6 @@ A simple implementation of a ToDoList in Node.js
 
 Endpoint | Body | Response
 -------- | ---- | --------
-GET /api/v1/task | | A list of objects
-POST /api/v1/task | taskName, taskCategory | Task successfully added
-DELETE /api/v1/task | taskName | Task successfully deleted
+GET /api/v1/tasks | | A list of objects
+POST /api/v1/tasks | taskName, taskCategory | Task successfully added
+DELETE /api/v1/tasks | taskName | Task successfully deleted
